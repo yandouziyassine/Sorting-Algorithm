@@ -53,16 +53,16 @@ Sorting
 
 ## 📈 Algorithm Complexities
 
-| Algorithm | Time (Best) | Time (Worst) | Space |
-| Bubble Sort | O(n) | O(n²) | O(1) |
-| Selection Sort | O(n²) | O(n²) | O(1) |
-| Insertion Sort | O(n) | O(n²) | O(1) |
-| Merge Sort | O(n log n) | O(n log n) | O(n) |
-| Quick Sort | O(n log n) | O(n²) | O(log n) |
-| Heap Sort | O(n log n) | O(n log n) | O(1) |
-| Tim Sort | O(n) | O(n log n) | O(n) |
-| Bucket Sort | O(n + k) | O(n²) | O(n + k) |
-| Bogo Sort | O(n) | O(∞) | O(1) |
+| Algorithm | Time (Best) | Time (Worst) | Space |<br>
+| Bubble Sort | O(n) | O(n²) | O(1) |<br>
+| Selection Sort | O(n²) | O(n²) | O(1) |<br>
+| Insertion Sort | O(n) | O(n²) | O(1) |<br>
+| Merge Sort | O(n log n) | O(n log n) | O(n) |<br>
+| Quick Sort | O(n log n) | O(n²) | O(log n) |<br>
+| Heap Sort | O(n log n) | O(n log n) | O(1) |<br>
+| Tim Sort | O(n) | O(n log n) | O(n) |<br>
+| Bucket Sort | O(n + k) | O(n²) | O(n + k) |<br>
+| Bogo Sort | O(n) | O(∞) | O(1) |<br>
 
 
 ## 📝 License
