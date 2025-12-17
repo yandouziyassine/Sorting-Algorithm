@@ -28,19 +28,19 @@ java SortingVisualizer<br>
 ## 📁 Project Structure
 
 
-Sorting
-├── Sorter.java            # Interface for all sorting algorithms
-├── Visualizer.java       # JPanel with histogram rendering & stats
-├── SortingVisualizer.java # Main JFrame application
-├── BubbleSort.java         # O(n²) - Simple comparison sort
-├── SelectionSort.java    # O(n²) - Finds minimum each pass
-├── InsertionSort.java    # O(n²) - Builds sorted portion
-├── MergeSort.java        # O(n log n) - Divide and conquer
-├── QuickSort.java        # O(n log n) - Partition-based
-├── HeapSort.java         # O(n log n) - Heap data structure
-├── TimSort.java          # O(n log n) - Hybrid (Insertion + Merge)
-├── BucketSort.java       # O(n + k) - Distribution sort
-└── BogoSort.java         # O((n+1)!) - Random shuffle (for fun!)
+Sorting<br>
+├── Sorter.java            # Interface for all sorting algorithms<br>
+├── Visualizer.java       # JPanel with histogram rendering & stats<br>
+├── SortingVisualizer.java # Main JFrame application<br>
+├── BubbleSort.java         # O(n²) - Simple comparison sort<br>
+├── SelectionSort.java    # O(n²) - Finds minimum each pass<br>
+├── InsertionSort.java    # O(n²) - Builds sorted portion<br>
+├── MergeSort.java        # O(n log n) - Divide and conquer<br>
+├── QuickSort.java        # O(n log n) - Partition-based<br>
+├── HeapSort.java         # O(n log n) - Heap data structure<br>
+├── TimSort.java          # O(n log n) - Hybrid (Insertion + Merge)<br>
+├── BucketSort.java       # O(n + k) - Distribution sort<br>
+└── BogoSort.java         # O((n+1)!) - Random shuffle <br>
 
 
 ## 🎨 Color Legend
