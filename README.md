@@ -19,10 +19,10 @@ A modular Java Swing application that visualizes various sorting algorithms with
 
 ### Compile & Run
 
-bash:
-cd Sorting
-javac *.java
-java SortingVisualizer
+bash:<br>
+cd Sorting<br>
+javac *.java<br>
+java SortingVisualizer<br>
 
 
 ## 📁 Project Structure
